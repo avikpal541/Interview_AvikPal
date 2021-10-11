@@ -1,0 +1,13 @@
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\bin\Debug\netcoreapp3.1\Interview_AvikPal.exe
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\bin\Debug\netcoreapp3.1\Interview_AvikPal.deps.json
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\bin\Debug\netcoreapp3.1\Interview_AvikPal.runtimeconfig.json
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\bin\Debug\netcoreapp3.1\Interview_AvikPal.runtimeconfig.dev.json
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\bin\Debug\netcoreapp3.1\Interview_AvikPal.dll
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\bin\Debug\netcoreapp3.1\Interview_AvikPal.pdb
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.csproj.AssemblyReference.cache
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.AssemblyInfoInputs.cache
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.AssemblyInfo.cs
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.csproj.CoreCompileInputs.cache
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.dll
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.pdb
+C:\Users\AVIK\source\repos\Interview_AvikPal\Interview_AvikPal\obj\Debug\netcoreapp3.1\Interview_AvikPal.genruntimeconfig.cache
